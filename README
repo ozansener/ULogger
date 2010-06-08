@@ -1,0 +1,6 @@
+This source is implemented by using pthread only. It simply create a log file and write log message to this file asynchronously. Multi-thread enables this utility to run without slowing down the main functions of software. It is also thred-save.
+
+To add this source to your projcet just include it and use like in the Sample main.cpp code. Also do not forget to link pthread to your solution.
+
+Bone Petit :p
+Ozan Sener
